@@ -6,7 +6,7 @@ from distutils import log
 
 log.set_verbosity(100)
 
-setup( zip_safe = True, name="icc.dme.fd", version="0.0.5",
+setup( zip_safe = True, name="icc.dme.fd", version="0.0.6",
        author="Evgeny Cherkashin", author_email="eugeneai@irnok.net",
        description="Dynamic Modelling Environment",
 
